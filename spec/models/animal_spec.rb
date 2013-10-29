@@ -1,0 +1,2 @@
+describe Animal do
+end
